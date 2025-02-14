@@ -13,3 +13,4 @@ __history/*
 *.skincfg
 *.pdf
 *.txt
+*.local
