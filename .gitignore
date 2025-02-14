@@ -1,0 +1,11 @@
+#pastas
+dcu/*.*
+__history/*
+
+#arquivos na raiz
+*.exe
+*.map
+*.drc
+*.dcu
+*.cbk
+*.~
