@@ -9,3 +9,7 @@ __history/*
 *.dcu
 *.cbk
 *.~
+*.res
+*.skincfg
+*.pdf
+*.txt
