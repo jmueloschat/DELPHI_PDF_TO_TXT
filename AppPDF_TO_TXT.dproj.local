@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<BorlandProject>
-  <Transactions>
-    <Transaction>2025/02/14 11:00:23.565.pas,C:\Users\Juliano.Mueloschat\Documents\RAD Studio\Projects\Unit1.pas=C:\repojm\DELPHI_PDF_TO_TXT\ufrmMain.pas</Transaction>
-    <Transaction>2025/02/14 11:00:23.565.dfm,C:\Users\Juliano.Mueloschat\Documents\RAD Studio\Projects\Unit1.dfm=C:\repojm\DELPHI_PDF_TO_TXT\ufrmMain.dfm</Transaction>
-    <Transaction>2025/02/14 11:05:59.035.dproj,C:\Users\Juliano.Mueloschat\Documents\RAD Studio\Projects\Project1.dproj=C:\repojm\DELPHI_PDF_TO_TXT\AppPDF_TO_TXT.dproj</Transaction>
-  </Transactions>
-</BorlandProject>
